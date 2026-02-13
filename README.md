@@ -18,18 +18,7 @@
   />
 </p>
 
-<div align="center">
-  <img height="165" align="center" alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=BryanHenrique-HTML&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
 
-  <img height="180" align="center" alt="Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanHenrique-HTML&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  
-  <br><br>
-  
-  <img align="center" alt="Profile Summary" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanHenrique-HTML&theme=zenburn"/>
-</div>
 
 <div align="center">
   <a href="https://www.instagram.com/sr.bryan_henrique">
@@ -77,6 +66,17 @@
     </samp>
   </div>
 </details>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanHenrique-HTML&theme=midnight_purple" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanHenrique-HTML&theme=midnight_purple" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BryanHenrique-HTML&theme=midnight_purple" />
+</div>
 
   ##
 
