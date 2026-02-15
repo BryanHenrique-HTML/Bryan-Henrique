@@ -84,7 +84,7 @@
 Portfolio:
 - ## 📂 Portfólio
 
-- [Apresentação do Projeto (Slides)](./calculadora-simples-apresentacao.pptx)
+- [Apresentação do Projeto (Slides)](calculadora-simples-apresentacao.pptx)
 - [Código-fonte do Projeto](https://github.com/BryanHenrique-HTML/CALCULADORA-EM-PYTHON)
 ##
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer"
