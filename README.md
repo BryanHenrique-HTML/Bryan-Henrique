@@ -82,12 +82,10 @@
 
 <!-- Portfolio -->
 Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+- ## 📂 Portfólio
 
+- [Apresentação do Projeto (Slides)](./calculadora-simples-apresentacao.pptx)
+- [Código-fonte do Projeto](https://github.com/BryanHenrique-HTML/CALCULADORA-EM-PYTHON)
 ##
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer"
 />
